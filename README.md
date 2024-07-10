@@ -1,6 +1,10 @@
 # Olá, me chamo Rafael de Macedo!
 ## Hi there 👋
+  
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
           
+                  
 
 <!--
 **Rafsmacedo/Rafsmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
